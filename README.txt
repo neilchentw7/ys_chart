@@ -1,0 +1,1 @@
+請將 NotoSansTC-Black.ttf 放入 fonts 資料夾
